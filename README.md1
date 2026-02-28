@@ -1,0 +1,21 @@
+# Data Analysis Project
+
+## 📌 Project Overview
+This project analyzes [dataset name] to extract insights and visualize trends.
+
+## 🛠 Tools Used
+- Python
+- Pandas
+- NumPy
+- Matplotlib / Seaborn
+
+## 📊 Key Insights
+- Insight 1
+- Insight 2
+- Insight 3
+
+## 📁 Files
+- notebook.ipynb
+
+## 🚀 How to Run
+Open the notebook in Google Colab or Jupyter Notebook.
